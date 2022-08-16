@@ -17,6 +17,8 @@ public class CollectionDemo {
 		}
 		
 		LinkedList<String> link= new LinkedList<>();
+		
+		
 	
 	}
 }
